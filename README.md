@@ -5,10 +5,10 @@ Documentation pro turned developer-in-training at **42 Berlin** (since Nov 2024)
 ## Now
 - 🌱 Learning **C** and **C++** through hands-on 42 projects
 - 🧠 Practicing algorithms, pointers, memory management, and build tooling (Make, gcc)
-- 📚 Web foundations explored: **HTML, CSS, JavaScript, TypeScript, React** *(coursework only—no production projects yet)*
+- 📚 Web foundations explored: **HTML, CSS, JavaScript, TypeScript, React**
 
 ## 🔍 42 Berlin Projects
-Almost all my 42 school projects live here: [**42_CC**](https://github.com/tjllis/42_CC) (or another link is provided below)
+Almost all my 42 school projects live here: [**42_CC**](https://github.com/tjllis/42_CC) (or other links are provided below)
 
 Highlights so far:
 - **Libft** – Custom C standard library implementation  
