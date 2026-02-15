@@ -19,6 +19,7 @@ Highlights so far:
 - **FdF** - 3D wireframe viewer that renders topographic maps from height data files
 - **philosophers** - Solution to the classic synchronization problem using threads and mutexes
 - [**cub3D**](https://github.com/tjllis/cub3d/tree/main) - 3D maze exploration game implementing ray-casting
+- **CPP Modules** - Set of small C++ projects, arranged in order of increasing complexity, designed to introduce basic concepts
 
 
 ## Tooling & Stack
