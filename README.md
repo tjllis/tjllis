@@ -1,6 +1,6 @@
-# Hi, I'm Tanya 👋
+# Hi, I'm Tanya 🎀
 
-Documentation pro turned developer-in-training at **42 Berlin** (since Nov 2024). I care about clean structure, reproducible workflow, and code that makes life simpler.
+**42 Berlin** student, shifting focus towards web-developement.
 
 ## Now
 - 🌱 Learning **C** and **C++** through hands-on 42 projects
@@ -20,6 +20,7 @@ Highlights so far:
 - **philosophers** - Solution to the classic synchronization problem using threads and mutexes
 - [**cub3D**](https://github.com/tjllis/cub3d/tree/main) - 3D maze exploration game implementing ray-casting
 - **CPP Modules** - Set of small C++ projects, arranged in order of increasing complexity, designed to introduce basic concepts
+- [webserv**](https://github.com/tjllis/webserv) - HTTP web server written in C++, focusing on low-level networking, CGI, and configuration parsing
 
 
 ## Tooling & Stack
