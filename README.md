@@ -3,8 +3,8 @@
 42 Berlin student with a C/C++ foundation, now focusing on web development.
 
 ### Now
-🛠️ Building frontend projects with HTML, CSS, TypeScript and React
-🛠️ Applying what I learned in C/C++ (memory, algorithms, networking) to understand how the web works under the hood
+- 🛠️ Building frontend projects with HTML, CSS, TypeScript and React
+- 🛠️ Applying what I learned in C/C++ (memory, algorithms, networking) to understand how the web works under the hood
 
 ### Pets
 - [**Tarot Reading App**](https://github.com/tjllis/bimbo_tarot): humorous tarot readings in three steps: pick a reading, shuffle, reveal
