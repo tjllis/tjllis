@@ -17,8 +17,8 @@
 Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC**](https://github.com/tjllis/42_CC)
   
 ### Stack
-**Web:** HTML, CSS, JavaScript, TypeScript, React
-**Systems:** C, C++, Make, Bash, Git
+- **Web:** HTML, CSS, JavaScript, TypeScript, React
+- **Systems:** C, C++, Make, Bash, Git
 
 ### Background
 I used to be an archivist and documentation manager (including legal and corporate workflows). It made me careful about precision and versioning, habits I now apply to code.
