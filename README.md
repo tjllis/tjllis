@@ -1,34 +1,27 @@
-# Hi, I'm Tanya 🎀
+# Hi, I’m Tanya 🎀
 
-**42 Berlin** student, shifting focus towards web-developement.
+42 Berlin student with a C/C++ foundation, now focusing on web development.
 
-## Now
-- 🌱 Learning **C** and **C++** through hands-on 42 projects
-- 🧠 Practicing algorithms, pointers, memory management, and build tooling (Make, gcc)
-- 📚 Web foundations explored: **HTML, CSS, JavaScript, TypeScript, React**
+### Now
+🛠️ Building frontend projects with HTML, CSS, TypeScript and React
+🛠️ Applying what I learned in C/C++ (memory, algorithms, networking) to understand how the web works under the hood
 
-## 🔍 42 Berlin Projects
-Almost all my 42 school projects live here: [**42_CC**](https://github.com/tjllis/42_CC) (or other links are provided below)
+## Pets
+- [**Tarot Reading App**](https://github.com/tjllis/bimbo_tarot): humorous tarot readings in three steps: pick a reading, shuffle, reveal
+- [**Cute Timer**](https://github.com/tjllis/cute-timer-web): the first web app I made
 
-Highlights so far:
-- **Libft** – Custom C standard library implementation  
-- **ft_printf** – Re-implementation of `printf` with formatted output  
-- **get_next_line** – Efficient line-by-line file reading (with memory safety tweaks)  
-- **push_swap** - Stack Sorting Algorithm
-- **minitalk** - Signal-based communication system using Unix signals
-- **FdF** - 3D wireframe viewer that renders topographic maps from height data files
-- **philosophers** - Solution to the classic synchronization problem using threads and mutexes
-- [**cub3D**](https://github.com/tjllis/cub3d/tree/main) - 3D maze exploration game implementing ray-casting
-- **CPP Modules** - Set of small C++ projects, arranged in order of increasing complexity, designed to introduce basic concepts
-- [**webserv**](https://github.com/tjllis/webserv) - HTTP web server written in C++, focusing on low-level networking, CGI, and configuration parsing
+## Selected school projects
+- [**webserv**](https://github.com/tjllis/webserv): HTTP server in C++ (networking, CGI, config parsing)
+- [**cub3D**](https://github.com/tjllis/cub3d/tree/main): ray-casting 3D maze game
 
+Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC**](https://github.com/tjllis/42_CC)
+  
+## Stack
+**Web:** HTML, CSS, JavaScript, TypeScript, React
+**Systems:** C, C++, Make, Bash, Git
 
-## Tooling & Stack
-**Academic:** C, C++, Make, Bash, Git  
-**Self-learning:** HTML, CSS, JavaScript, TypeScript, React
-
-## A bit of context
-I used to be an archivist/documentation manager (including legal/corporate workflows). That background made me relentless about precision and versioning-habits I now apply to code.
+### Background
+I used to be an archivist and documentation manager (including legal and corporate workflows). It made me careful about precision and versioning, habits I now apply to code.
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanyakletka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanyakletka-ff8fb8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanyakletka/)
