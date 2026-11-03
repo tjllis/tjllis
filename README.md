@@ -13,6 +13,7 @@ Frontend developer and 42 Berlin student, backed by a strong C/C++ foundation.
 ### Selected school projects
 - [**webserv**](https://github.com/tjllis/webserv): HTTP server in C++ (networking, CGI, config parsing)
 - [**cub3D**](https://github.com/tjllis/cub3d/tree/main): ray-casting 3D maze game
+- [**Poolaki**](https://github.com/tjllis/poolaki): expense tracking app
 
 Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC**](https://github.com/tjllis/42_CC)
   
