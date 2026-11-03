@@ -20,7 +20,7 @@ Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC
 ### Stack
 - **Web:** HTML, CSS, JavaScript, TypeScript, React
 - **Tests:** Playwright, Vitest
-- **Systems:** C, C++, Make, Bash, Git
+- **Systems:** C, C++, Make, Bash, Git, Docker
 
 ### Background
 I used to be an archivist and documentation manager (including legal and corporate workflows). It made me careful about precision and versioning, habits I now apply to code.
