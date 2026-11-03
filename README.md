@@ -18,7 +18,7 @@ Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC
   
 ### Stack
 - **Web:** HTML, CSS, JavaScript, TypeScript, React
-- **Tests** Playwright, Vitest
+- **Tests:** Playwright, Vitest
 - **Systems:** C, C++, Make, Bash, Git
 
 ### Background
