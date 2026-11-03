@@ -1,6 +1,6 @@
 # Hi, I’m Tanya 🎀
 
-42 Berlin student with a C/C++ foundation, now focusing on web development.
+Frontend developer and 42 Berlin student, backed by a strong C/C++ foundation.
 
 ### Now
 - 🛠️ Building frontend projects with HTML, CSS, TypeScript and React
@@ -18,6 +18,7 @@ Other 42 projects (Libft, ft_printf, push_swap, minitalk, CPP Modules): [**42_CC
   
 ### Stack
 - **Web:** HTML, CSS, JavaScript, TypeScript, React
+- **Tests** Playwright, Vitest
 - **Systems:** C, C++, Make, Bash, Git
 
 ### Background
